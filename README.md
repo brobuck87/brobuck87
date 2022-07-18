@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @brobuck87
 - 👀 I’m interested in learning different languages!
-- 🌱 I’m currently learning Python and web development
-- 💞️ I’m looking to collaborate on any projects to get me more hands on experience!
+- 🌱 I’m currently learning Python, Javascript, and Web Development
 - 📫 How to reach me: brobuck87@gmail.com
