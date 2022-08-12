@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brobuck87
-- 👀 I’m interested in learning different languages!
-- 🌱 I’m currently learning Python, Javascript, and Web Development
+- 👋 Hi, I’m Ben! 
+- 👀 I’m interested in software development and QA engineering
+- 🌱 I’m currently learning Python, Javascript and full stack Web Development. I've recently been focusing on jQuery and Bootstrap
 - 📫 How to reach me: brobuck87@gmail.com
