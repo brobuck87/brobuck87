@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Ben! 
-- 👀 I’m interested in software development and QA engineering
-- 🌱 I’m currently learning Python, Javascript and full stack Web Development. I've recently been focusing on jQuery and Bootstrap
-- 📫 How to reach me: brobuck87@gmail.com
+- 👀 I’m interested in Full Stack Development. Currently working as a UI/UX Developer
+- 🌱 I’m currently learning React and creating a flash card full stack application. 
+- 📫 How to reach me: brobuck87@gmail.com or benrobuck.com
+
+  
